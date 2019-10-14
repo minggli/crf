@@ -4,5 +4,7 @@ This repository contains a short introduction to [Lafferty et. al. 2001][1] for 
 
 ## Reference
 - Lafferty et al. 2001. Conditional Random Fields: Probabilistic Models for Segmenting and Labeling Sequence Data. Available at: [Link][1]
+- Sutton and McCallum 2010. Introduction to Conditional Random Fields. Available at: [Link][2]
 
 [1]: http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.26.803&rep=rep1&type=pdf
+[2]: https://homepages.inf.ed.ac.uk/csutton/publications/crftutv2.pdf
